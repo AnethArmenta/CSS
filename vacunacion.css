@@ -1,0 +1,133 @@
+*{
+    font-family:'Franklin Gothic Medium';
+}
+.contenedor >div{
+    display:flex;
+    font-family: 'Franklin Gothic Medium';
+}
+.space-a{
+    justify-content: space-around;
+}
+.space-b{
+    justify-content: space-between;
+}
+
+.fondo{
+    background:rgba(180, 212, 240, 0.37);
+}
+.fondo1{
+    background:white;
+}
+.titulo0{
+    text-align: left;
+    color:#054B79;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.titulo{
+    text-align: left;
+    color:#054B79;
+    font-weight: 700;
+}
+.titulo1{
+    color: darkgray;
+}
+.titulo2{
+    color:#11327F;
+    font-weight: 900;
+    font-family:'Franklin Gothic Medium';
+    
+}
+.p{
+    color:#5687A7;
+}
+
+.p1{
+    color:#5687A7;
+    font-size: 12px;
+}
+
+
+.enlace{
+    text-decoration: none;
+    color: gray;
+}
+.color{
+    text-decoration: none;
+    color: white;
+}
+.enlace1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 40;
+    height: 30;
+    background-color: blue;
+}
+.cuadro{
+   position: absolute;
+   top:1250px;
+   left:240px ;
+   background-color: rgb(248, 248, 248);
+   height: 100px;
+   width: 600px;
+}
+.caja1{
+
+   background-color:#FBFCFC;
+   height: 200px;
+   width: 200px;
+   float: left;
+   color: #11327F;
+   text-align: left;
+   line-height: 20px;
+}
+
+.caja2{
+
+   background-color:#FBFCFC;
+   height: 40px;
+   width: 300px;
+   color: #11327F;
+   text-align: left;
+   line-height: 20px;
+  
+}
+.cajaextra{
+    background-color:#FBFCFC;
+    height: 200px;
+    width: 300px;
+    color: #11327F;
+    text-align: left;
+    line-height: 20px;  
+}
+
+.caja3{
+    background-color:#FBFCFC;
+    height: 150px;
+    width: 150px;
+    float: left;
+    color: #11327F;
+    text-align: left;
+    line-height: 20px;  
+  
+}
+
+.boton{
+ background-color: blue; 
+ border: none;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ font-size: 20px;
+ border-radius: 4px;
+}
+.boton1{
+    background-color:#AED6F1; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-radius: 4px;
+   }
